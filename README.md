@@ -9,10 +9,13 @@
 
 # Result
 Train Accuracy
+
 ![image](https://github.com/leognha/Car-Type-Classification/blob/master/ACC_train.png)
 
 Test Accuracy
+
 ![image](https://github.com/leognha/Car-Type-Classification/blob/master/ACC_test.png)
 
 Train Loss
+
 ![image](https://github.com/leognha/Car-Type-Classification/blob/master/Loss_train.png)
